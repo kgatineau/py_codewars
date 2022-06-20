@@ -4,5 +4,3 @@ def find_it(seq):
             return num
 
 
-if __name__ == '__main__':
-    print(find_it([1, 1, 1, 2, 2, 4, 4, 10, 10]))
